@@ -1,0 +1,49 @@
+<head>
+
+</head>
+<body>
+<h4>WARNING: This page will email every email address in a .txt file that you feed it!</h4>
+
+<form enctype="multipart/form-data" class="form-horizontal" role="form" method="POST" id="form1"
+      action="https://ehacks.cs.siue.edu/massEmailScript.php" onsubmit="">
+    <br>
+    <h3>SIUE MASS EMAIL</h3>
+    <input type="file" id="mass_email_SIUE" name="mass_email_SIUE">
+    <input type="hidden" name="formValue" value="0">
+    <br>
+    <br>
+    <button type="submit" class="btn btn-primary btn-block">Email People</button>
+
+</form>
+
+<br>
+<hr>
+
+<form enctype="multipart/form-data" class="form-horizontal" role="form" method="POST" id="form2"
+      action="https://ehacks.cs.siue.edu/massEmailScript.php" onsubmit="">
+    <br>
+    <h3>NOT SIUE MASS EMAIL</h3>
+    <input type="file" id="mass_email_notSIUE" name="mass_email_notSIUE">
+    <input type="hidden" name="formValue" value="1">
+    <br>
+    <br>
+    <button type="submit" class="btn btn-primary btn-block">Email non-SIUE People</button>
+</form>
+
+<br>
+<hr>
+
+<form enctype="multipart/form-data" class="form-horizontal" role="form" method="POST" id="form2"
+      action="https://ehacks.cs.siue.edu/massEmailScript.php" onsubmit="">
+    <br>
+    <h3>GENERAL EMAIL (SLACK)</h3>
+    <input type="file" id="mass_email_general" name="mass_email_general">
+    <input type="hidden" name="formValue" value="2">
+    <br>
+    <br>
+    <button type="submit" class="btn btn-primary btn-block">Email non-SIUE People</button>
+</form>
+
+</body>
+
+
