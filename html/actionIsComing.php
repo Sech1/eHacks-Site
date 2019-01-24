@@ -6,12 +6,15 @@
  * Date: 2/3/18
  * Time: 2:07 AM
  */
+
 include("connectDB.php");
 include("email.php");
 include("redirect.php");
 
 if ($_SERVER['REQUEST_METHOD'] == "POST") {
-
+    ini_set('display_errors', 'On');
+    error_reporting(E_ALL);
+    
 //This gets all the other information from the form
 //Writes the Filename to the server
     if (move_uploaded_file($_FILES['resumeUpload']['tmp_name'], $target)) {
@@ -135,7 +138,7 @@ function emailReg($firstName, $lastName, $email, $edu, $doBus)
     $headers .= "MIME-Version: 1.0\r\n";
     $headers .= "Content-Type: text/html; charset=ISO-8859-1\r\n";
     // $admin_email = "no-reply@ehacks.cs.siue.edu";
-    $subject = "Ehacks 2018 Registration";
+    $subject = "Ehacks 2019 Registration";
 
     if ($doBus) {
         $message = '<html><body>';
