@@ -2,3 +2,4 @@ connectDB.php
 *.pdf
 /.idea
 /.idea/
+.idea/
