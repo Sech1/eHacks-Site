@@ -5,3 +5,5 @@ connectDB.php
 .idea/
 vendor/
 /vendor/
+LICENSE.txt
+LICENSE

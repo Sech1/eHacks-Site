@@ -50,6 +50,9 @@
             <!--<img alt="major League Hacking Banner" src="img/mlh_banner.svg" style="width:4%;">-->
             <ul class="nav navbar-nav navbar-right">
                 <li>
+                    <a class="page-scroll" href="#register">Register</a>
+                </li>
+                <li>
                     <a class="page-scroll" href="#about">About</a>
                 </li>
                 <li>
@@ -63,9 +66,6 @@
                 </li>
                 <li>
                     <a class="page-scroll" href="#sponsors">Sponsors</a>
-                </li>
-                <li>
-                    <a class="page-scroll" href="#register">Register</a>
                 </li>
             </ul>
         </div>
