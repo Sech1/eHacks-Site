@@ -44,7 +44,6 @@
             </button>
 
         </div>
-
         <!-- Collect the nav links, forms, and other content for toggling -->
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
             <!--<img alt="major League Hacking Banner" src="img/mlh_banner.svg" style="width:4%;">-->
@@ -53,19 +52,19 @@
                     <a class="page-scroll" href="#register">Register</a>
                 </li>
                 <li>
-                    <a class="page-scroll" href="#about">About</a>
+                    <a class="page-scroll" href="https://ehacks.cs.siue.edu/#about">About</a>
                 </li>
                 <li>
-                    <a class="page-scroll" href="#updates">Updates</a>
+                    <a class="page-scroll" href="https://ehacks.cs.siue.edu/#updates">Updates</a>
                 </li>
                 <li>
-                    <a class="page-scroll" href="#faq">FAQ</a>
+                    <a class="page-scroll" href="https://ehacks.cs.siue.edu/#faq">FAQ</a>
                 </li>
                 <li>
-                    <a class="page-scroll" href="#agenda">Agenda</a>
+                    <a class="page-scroll" href="https://ehacks.cs.siue.edu/#agenda">Agenda</a>
                 </li>
                 <li>
-                    <a class="page-scroll" href="#sponsors">Sponsors</a>
+                    <a class="page-scroll" href="https://ehacks.cs.siue.edu/#sponsors">Sponsors</a>
                 </li>
             </ul>
         </div>
