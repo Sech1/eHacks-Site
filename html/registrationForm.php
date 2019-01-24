@@ -3,7 +3,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Ehacks 2018 Registration Form">
+    <meta name="description" content="Ehacks 2019 Registration Form">
     <meta name="author" content="Jared M Schooley">
     <meta property="og:image" content="http://ehacks.cs.siue.edu/img/ehacks-text-large.png"/>
     <title>eHacks</title>
@@ -96,7 +96,7 @@
 
                 <div class="container" align="center">
                     <div class="col-lg-12 text-center">
-                        <h2 class="section-heading" align="center">Ehacks 2018 Registration</h2>
+                        <h2 class="section-heading" align="center">Ehacks 2019 Registration</h2>
                         <hr class="primary">
                     </div>
                 </div>
