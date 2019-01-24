@@ -3,3 +3,5 @@ connectDB.php
 /.idea
 /.idea/
 .idea/
+vendor/
+/vendor/
