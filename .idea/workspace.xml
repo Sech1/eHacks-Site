@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f0f3a65e-db6f-4e3f-96a2-465416d1a68b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/html/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/html/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/actionIsComing.php" beforeDir="false" afterPath="$PROJECT_DIR$/html/actionIsComing.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/js/registrationJS.js" beforeDir="false" afterPath="$PROJECT_DIR$/html/js/registrationJS.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -32,14 +30,16 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/html/registrationForm.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1150" />
+            <state relative-caret-position="628">
+              <caret line="169" column="47" selection-start-line="169" selection-start-column="47" selection-end-line="169" selection-end-column="47" />
+            </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/html/actionIsComing.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1785">
+            <state relative-caret-position="332">
               <caret line="119" column="41" selection-start-line="119" selection-start-column="41" selection-end-line="119" selection-end-column="41" />
             </state>
           </provider>
@@ -57,8 +57,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/html/js/registrationJS.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-455">
-              <caret column="17" lean-forward="true" selection-start-column="17" selection-end-column="17" />
+            <state relative-caret-position="451">
+              <caret line="66" column="14" selection-start-line="66" selection-start-column="14" selection-end-line="66" selection-end-column="14" />
               <folding>
                 <element signature="n#style#0;n#span#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#span#0;n#!!top" expanded="true" />
@@ -104,6 +104,7 @@
       <list>
         <option value="$PROJECT_DIR$/html/index.html" />
         <option value="$PROJECT_DIR$/html/actionIsComing.php" />
+        <option value="$PROJECT_DIR$/html/js/registrationJS.js" />
       </list>
     </option>
   </component>
@@ -174,12 +175,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1548307623139</updated>
-      <workItem from="1548307624529" duration="799000" />
+      <workItem from="1548307624529" duration="1115000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="799000" />
+    <option name="totallyTimeSpent" value="1115000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="1027" extended-state="0" />
@@ -226,18 +227,6 @@
         <state relative-caret-position="-36" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/html/registrationForm.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1150" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/html/actionIsComing.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1785">
-          <caret line="119" column="41" selection-start-line="119" selection-start-column="41" selection-end-line="119" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/html/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1781">
@@ -245,10 +234,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/html/registrationForm.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="628">
+          <caret line="169" column="47" selection-start-line="169" selection-start-column="47" selection-end-line="169" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/actionIsComing.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="332">
+          <caret line="119" column="41" selection-start-line="119" selection-start-column="41" selection-end-line="119" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/html/js/registrationJS.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-455">
-          <caret column="17" lean-forward="true" selection-start-column="17" selection-end-column="17" />
+        <state relative-caret-position="451">
+          <caret line="66" column="14" selection-start-line="66" selection-start-column="14" selection-end-line="66" selection-end-column="14" />
           <folding>
             <element signature="n#style#0;n#span#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#span#0;n#!!top" expanded="true" />

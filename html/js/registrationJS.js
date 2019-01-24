@@ -65,7 +65,6 @@ function setup() {
                 '</div>';
         }
         else {
-            document.getElementById('otherText').innerHTML = '';
             document.getElementById('eduError').innerHTML = '';
         }
     }
