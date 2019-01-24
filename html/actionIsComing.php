@@ -14,16 +14,9 @@ include("redirect.php");
 if ($_SERVER['REQUEST_METHOD'] == "POST") {
     ini_set('display_errors', 'On');
     error_reporting(E_ALL);
-    
+
 //This gets all the other information from the form
 //Writes the Filename to the server
-    if (move_uploaded_file($_FILES['resumeUpload']['tmp_name'], $target)) {
-        //Tells you if its all ok
-        // echo "The file ". basename( $_FILES['resumeUpload']['name']). " has been uploaded, and your information has been added to the directory";
-    } else {
-        //Gives and error if its not
-        //  echo "Sorry, there was a problem uploading your file.";
-    }
 
     //$firstName = $_POST['firstText'];
     $firstName = strip_tags($_POST['firstText']);
