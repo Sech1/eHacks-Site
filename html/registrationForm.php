@@ -183,8 +183,7 @@
                 <div class="form-group">
                     <label for="ethnicity" class="col-sm-3 control-label">Ethnicity</label>
                     <div class="col-sm-9">
-                        <select id="ethnicity" class="form-control" name="ethnicitySelect"
-                                onchange="showfield(this.options[this.selectedIndex].value)" required>
+                        <select id="ethnicity" class="form-control" name="ethnicitySelect" required>
                             <option value="" selected disabled>Please Select Ethnicity</option>
                             <option value="American Indian or Alaskan Native">American Indian or Alaskan Native</option>
                             <option value="Asian">Asian</option>
