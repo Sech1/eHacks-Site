@@ -332,7 +332,7 @@
             <h2 class="section-heading">Sponsors</h2>
             <hr class="primary">
         </div>
-        <span class="center-block"><a href="https://www.centene.com" target="_blank"><img
+        <span class="col-lg-offset-12 text-center"><a href="https://www.centene.com" target="_blank"><img
                         src="img/CENTENE_LOGO.jpg" title="Centene"
                         alt="Centene" style="width:70%;"></a></span>
         <br>
