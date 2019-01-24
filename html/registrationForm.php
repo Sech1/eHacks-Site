@@ -292,7 +292,8 @@
                     </span>
                 </div>
             </div>
-            <input type="file" id="fileUpload" name="resumeUpload" style="display:none"/>
+            <input type="file" accept=".pdf, .docx, .doc, application/msword, application/pdf" id="fileUpload"
+                   name="resumeUpload" style="display:none"/>
 
             <div class="form-group">
                 <label for="fileError" class="col-sm-3 control-label"></label>
@@ -302,11 +303,12 @@
             <!--Form End - FILE_UPLOAD-->
 
             <input type="hidden" name="busSel" value="N/A">
-            <input type ="hidden" name="otherSchoolValue" value="">
+            <input type="hidden" name="otherSchoolValue" value="">
 
             <div class="form-group">
                 <div class="col-sm-9 col-sm-offset-3">
-                    <button type="submit" class="btn btn-primary btn-block" onclick="return validate()">Register</button>
+                    <button type="submit" class="btn btn-primary btn-block" onclick="return validate()">Register
+                    </button>
                 </div>
             </div>
 
@@ -347,30 +349,30 @@
             <a href="https://www.nisc.coop" target="_blank">
                 <img src="img/nisc_logo.png" title="NISC"
                      alt="NISC" style="width: 20%;"></a>
-        <!--<span style='color:red;margin-right:4.00em; display:inline-block;'>&nbsp;</span>
-        <a href="https://mlh.io" target="_blank"><img
-                src="img/mlh_logo2.png" title="MLH"
-                alt="MLH" style="width:20%;"></a>-->
-        <span style='color:red;margin-right:5.00em; display:inline-block;'>&nbsp;</span>
-        <a href="https://objectcomputing.com" target="_blank"><img
-                    src="img/oci_logo.jpg" title="OCI"
-                    alt="OCI" style="width:30%;"></a>
-        <br>
-        <a href="https://www.enterpriseholdings.com/en/index.html" target="_blank"><img
-                    src="img/EHI_Logo.png" title="Enterprise"
-                    alt="Enterprise" style="width:27%;"></a>
-        <span style='color:red;margin-right:2.00em; display:inline-block;'>&nbsp;</span>
-        <a href="http://www.downtowntrex.org" target="_blank"><img
-                    src="img/Trex_Logo.png" title="TREX"
-                    alt="TREX" style="width:27%;"></a>
-        <span style='color:red;margin-right:2.00em; display:inline-block;'>&nbsp;</span>
-        <a href="http://bjsprintables.com/index.php" target="_blank"><img
-                    src="img/bjs_Logo.png" title="BJS"
-                    alt="BJS" style="width:27%;"></a>
-        <br>
-        <a href="http://www.siue.edu" target="_blank"><img
-                    src="img/Siue_stylized_wordmark.png" title="SIUE"
-                    alt="SIUE" style="width:35%;"></a>
+            <!--<span style='color:red;margin-right:4.00em; display:inline-block;'>&nbsp;</span>
+            <a href="https://mlh.io" target="_blank"><img
+                    src="img/mlh_logo2.png" title="MLH"
+                    alt="MLH" style="width:20%;"></a>-->
+            <span style='color:red;margin-right:5.00em; display:inline-block;'>&nbsp;</span>
+            <a href="https://objectcomputing.com" target="_blank"><img
+                        src="img/oci_logo.jpg" title="OCI"
+                        alt="OCI" style="width:30%;"></a>
+            <br>
+            <a href="https://www.enterpriseholdings.com/en/index.html" target="_blank"><img
+                        src="img/EHI_Logo.png" title="Enterprise"
+                        alt="Enterprise" style="width:27%;"></a>
+            <span style='color:red;margin-right:2.00em; display:inline-block;'>&nbsp;</span>
+            <a href="http://www.downtowntrex.org" target="_blank"><img
+                        src="img/Trex_Logo.png" title="TREX"
+                        alt="TREX" style="width:27%;"></a>
+            <span style='color:red;margin-right:2.00em; display:inline-block;'>&nbsp;</span>
+            <a href="http://bjsprintables.com/index.php" target="_blank"><img
+                        src="img/bjs_Logo.png" title="BJS"
+                        alt="BJS" style="width:27%;"></a>
+            <br>
+            <a href="http://www.siue.edu" target="_blank"><img
+                        src="img/Siue_stylized_wordmark.png" title="SIUE"
+                        alt="SIUE" style="width:35%;"></a>
     </div>
     <br>
 </section>

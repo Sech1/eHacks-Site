@@ -58,29 +58,25 @@ if ($_SERVER['REQUEST_METHOD'] == "POST") {
 //This gets all the other information from the form
 //Writes the Filename to the server
     if (move_uploaded_file($_FILES['resumeUpload']['tmp_name'], $target)) {
-        //Tells you if its all ok
-        // echo "The file ". basename( $_FILES['resumeUpload']['name']). " has been uploaded, and your information has been added to the directory";
-    } else {
-        //Gives and error if its not
-        //  echo "Sorry, there was a problem uploading your file.";
-    }
-
-    if (empty($_POST['bus'])) {
-        $bus = 'N/A';
-        $doBus = false;
-    } else {
-        $bus = $_POST['bus'];
-        $doBus = true;
-    }
+        if (empty($_POST['bus'])) {
+            $bus = 'N/A';
+            $doBus = false;
+        } else {
+            $bus = $_POST['bus'];
+            $doBus = true;
+        }
 
 //print_r($eduIns);
 
-    echo REDIRECT;
+        echo REDIRECT;
 
-    connect($firstName, $lastName, $email, $eduIns, $ethSel, $gender, $shirt, $file, $bus);
-    emailReg($firstName, $lastName, $email, $eduIns, $doBus);
-    redirect();
-
+        connect($firstName, $lastName, $email, $eduIns, $ethSel, $gender, $shirt, $file, $bus);
+        emailReg($firstName, $lastName, $email, $eduIns, $doBus);
+        redirect();
+    } else {
+        echo "WARNING: There was an error uploading your file, please try again.";
+        echo "Maybe the file name has already been uploaded, or the file is too large.";
+    }
 } else {
     echo "Something went wrong, Please resubmit form";
 }
