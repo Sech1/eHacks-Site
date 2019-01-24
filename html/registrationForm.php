@@ -50,19 +50,19 @@
             <!--<img alt="major League Hacking Banner" src="img/mlh_banner.svg" style="width:4%;">-->
             <ul class="nav navbar-nav navbar-right">
                 <li>
-                    <a class="page-scroll" href="https://ehacks.cs.siue.edu/#updates">Updates</a>
+                    <a class="page-scroll" href="#about">About</a>
                 </li>
                 <li>
-                    <a class="page-scroll" href="https://ehacks.cs.siue.edu/#about">About</a>
+                    <a class="page-scroll" href="#updates">Updates</a>
                 </li>
                 <li>
-                    <a class="page-scroll" href="https://ehacks.cs.siue.edu/#faq">FAQ</a>
+                    <a class="page-scroll" href="#faq">FAQ</a>
                 </li>
                 <li>
-                    <a class="page-scroll" href="https://ehacks.cs.siue.edu/#agenda">Agenda</a>
+                    <a class="page-scroll" href="#agenda">Agenda</a>
                 </li>
                 <li>
-                    <a class="page-scroll" href="https://ehacks.cs.siue.edu/#sponsors">Sponsors</a>
+                    <a class="page-scroll" href="#sponsors">Sponsors</a>
                 </li>
                 <li>
                     <a class="page-scroll" href="#register">Register</a>
@@ -332,9 +332,9 @@
             <h2 class="section-heading">Sponsors</h2>
             <hr class="primary">
         </div>
-        <center><a href="https://www.centene.com" target="_blank"><img
+        <span class="center-block"><a href="https://www.centene.com" target="_blank"><img
                         src="img/CENTENE_LOGO.jpg" title="Centene"
-                        alt="Centene" style="width:70%;"></a></center>
+                        alt="Centene" style="width:70%;"></a></span>
         <br>
         <div align="center">
         </div>
