@@ -50,10 +50,10 @@ if ($_SERVER['REQUEST_METHOD'] == "POST") {
     //$firstName = $alteredFirst;
     //$lastName = $alteredLast;
 
-    $target = "2018Documents/";
+    $target = "2019Documents/";
     $target = $target . $firstName . $lastName . '/';
     $target = $target . basename($_FILES['resumeUpload']['name']);
-    $dir = "2018Documents/";
+    $dir = "2019Documents/";
     $dir = $dir . $firstName . $lastName;
     mkdir($dir, 0777, true); //create the directory
 //This gets all the other information from the form
@@ -117,7 +117,7 @@ function connect($first, $last, $email, $edu, $eth, $gender, $shirt, $file, $bus
 
     // $test = ("SELECT * FROM ehacks2018_registration");
     // print_r($conn->query($test));
-    $insertData = "INSERT INTO ehacks2018_registration(
+    $insertData = "INSERT INTO ehacks2019_registration(
                           First_Name, Last_Name, Email, School, Gender, Race, Shirt_Size, File, Bus)
                    VALUES ('$first','$last','$email','$edu','$gender','$eth','$shirt','$file','$bus')";
 
