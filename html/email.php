@@ -31,7 +31,7 @@ $emailHead = '<head>
 <div id="wrapper" style="background-color:#ffffff; margin:0 auto; text-align:center; width:100%" bgcolor="#ffffff"
      align="center" width="100%">
     <table class="main-table" align="center"
-           style="-premailer-cellpadding:0; -premailer-cellspacing:0; background-color:#ffffff; border:0; margin:0 auto; max-width:480px; mso-table-lspace:0; mso-table-rspace:0; padding:0; text-align:center; width:480"
+           style="-premailer-cellpadding:0; -premailer-cellspacing:0; background-color:#ffffff; border:0; margin:0 auto; max-width:480px; mso-table-lspace:0; mso-table-rspace:0; padding:0; text-align:center; width:480px"
            cellpadding="0"
            cellspacing="0" bgcolor="#ffffff" width="480">
 
@@ -43,11 +43,11 @@ $emailHead = '<head>
             </td>
         </tr>
         <tr>
-            <td class="logo" align="center" style="background-color:#ffffff; text-align:center; width:480"
+            <td class="logo" align="center" style="background-color:#ffffff; text-align:center; width:480px"
                 bgcolor="#ffffff" width="480">
                 <a href="http://ehacks.cs.siue.edu/" target="_blank"><img
-                        src="http://ehacks.cs.siue.edu/img/Logo2018-BlackOnWhite-resize.png" title="Ehacks"
-                        alt="Ehacks"></a>
+                        src="http://ehacks.cs.siue.edu/img/Logo2018-BlackOnWhite-resize.png" title="eHacks"
+                        alt="eHacks"></a>
             </td>
         </tr>
         <tr>
@@ -86,7 +86,7 @@ $emailHead = '<head>
                 align="center">';
 
 $yesBusEmail = 'your registration was received and we will keep you updated on upcoming news related
-                eHacks 2018. We will email you soon with agenda updates, prizes, and other information.
+                eHacks 2019. We will email you soon with agenda updates, prizes, and other information.
             </td>
         </tr>
         <tr>
@@ -133,7 +133,7 @@ $yesBusEmail = 'your registration was received and we will keep you updated on u
 </body>';
 
 $noBus = 'your registration was received and we will keep you updated on upcoming news related
-                eHacks 2018. We will email you soon with agenda updates, prizes, and other information.
+                eHacks 2019. We will email you soon with agenda updates, prizes, and other information.
             </td>
         </tr>
         <tr>

@@ -12,8 +12,11 @@ include("email.php");
 include("redirect.php");
 
 if ($_SERVER['REQUEST_METHOD'] == "POST") {
-    ini_set('display_errors', 'On');
-    error_reporting(E_ALL);
+
+    // DEBUG CODE:
+    // Uncomment to enable
+    //ini_set('display_errors', 'On');
+    //error_reporting(E_ALL);
 
 //This gets all the other information from the form
 //Writes the Filename to the server
