@@ -46,7 +46,7 @@ $emailHead = '<head>
             <td class="logo" align="center" style="background-color:#ffffff; text-align:center; width:480px"
                 bgcolor="#ffffff" width="480">
                 <a href="http://ehacks.cs.siue.edu/" target="_blank"><img
-                        src="http://ehacks.cs.siue.edu/img/Logo2018-BlackOnWhite-resize.png" title="eHacks"
+                        src="http://ehacks.cs.siue.edu/img/Logo2019-BlackOnWhite-resize.png" title="eHacks"
                         alt="eHacks"></a>
             </td>
         </tr>
