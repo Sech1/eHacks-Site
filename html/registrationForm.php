@@ -338,6 +338,10 @@
                         alt="Centene" style="width:70%;"></a></span>
         <br>
         <div align="center">
+            <a href="https://www.bayer.com" target="_blank"><img
+                        src="img/bayer.png" title="Bayer"
+                        alt="Bayer" style="width:55%;"></a>
+            <br>
         </div>
     </div>
     <div align="center">
@@ -369,15 +373,11 @@
                     src="img/bjs_Logo.png" title="BJS"
                     alt="BJS" style="width:27%;"></a>
         <br>
-        <a href="https://www.bayer.com" target="_blank"><img
-                    src="img/bayer.png" title="Bayer"
-                    alt="Bayer" style="width:37%;"></a>
-        <br>
         <a href="http://www.siue.edu" target="_blank"><img
                     src="img/Siue_stylized_wordmark.png" title="SIUE"
                     alt="SIUE" style="width:35%;"></a>
+        <br>
     </div>
-    <br>
 </section>
 
 <!-- jQuery -->
