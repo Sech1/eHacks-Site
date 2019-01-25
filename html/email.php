@@ -10,7 +10,7 @@
 
 $emailHead = '<head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-    <title>Ehacks 2018 Confirmation</title>
+    <title>Ehacks 2019 Confirmation</title>
 </head>
 
 <body>
