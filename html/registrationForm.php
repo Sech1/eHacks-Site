@@ -55,7 +55,7 @@
                     <a class="page-scroll" href="https://ehacks.cs.siue.edu/#about">About</a>
                 </li>
                 <li>
-                    <a class="page-scroll" href="https://ehacks.cs.siue.edu/#updates">Updates</a>
+                    <a class="page-scroll" href="https://ehacks.cs.siue.edu/#updates">Prizes</a>
                 </li>
                 <li>
                     <a class="page-scroll" href="https://ehacks.cs.siue.edu/#faq">FAQ</a>
@@ -341,38 +341,41 @@
         </div>
     </div>
     <div align="center">
-        <a href="https://www.nisc.coop" target="_blank">
-            <a href="https://www.att.com" target="_blank"><img
-                        src="img/att_logo.jpg" title="ATT"
-                        alt="ATT" style="width: 45%;"></a>
-            <br>
-            <a href="https://www.nisc.coop" target="_blank">
-                <img src="img/nisc_logo.png" title="NISC"
-                     alt="NISC" style="width: 20%;"></a>
-            <!--<span style='color:red;margin-right:4.00em; display:inline-block;'>&nbsp;</span>
-            <a href="https://mlh.io" target="_blank"><img
-                    src="img/mlh_logo2.png" title="MLH"
-                    alt="MLH" style="width:20%;"></a>-->
-            <span style='color:red;margin-right:5.00em; display:inline-block;'>&nbsp;</span>
-            <a href="https://objectcomputing.com" target="_blank"><img
-                        src="img/oci_logo.jpg" title="OCI"
-                        alt="OCI" style="width:30%;"></a>
-            <br>
-            <a href="https://www.enterpriseholdings.com/en/index.html" target="_blank"><img
-                        src="img/EHI_Logo.png" title="Enterprise"
-                        alt="Enterprise" style="width:27%;"></a>
-            <span style='color:red;margin-right:2.00em; display:inline-block;'>&nbsp;</span>
-            <a href="http://www.downtowntrex.org" target="_blank"><img
-                        src="img/Trex_Logo.png" title="TREX"
-                        alt="TREX" style="width:27%;"></a>
-            <span style='color:red;margin-right:2.00em; display:inline-block;'>&nbsp;</span>
-            <a href="http://bjsprintables.com/index.php" target="_blank"><img
-                        src="img/bjs_Logo.png" title="BJS"
-                        alt="BJS" style="width:27%;"></a>
-            <br>
-            <a href="http://www.siue.edu" target="_blank"><img
-                        src="img/Siue_stylized_wordmark.png" title="SIUE"
-                        alt="SIUE" style="width:35%;"></a>
+        <!--  <a href="https://www.att.com" target="_blank"><img
+                  src="img/att_logo.jpg" title="ATT"
+                  alt="ATT" style="width: 45%;"></a>
+          <br> -->
+        <!-- <a href="https://www.nisc.coop" target="_blank">
+             <img src="img/nisc_logo.png" title="NISC"
+                  alt="NISC" style="width: 20%;"></a> -->
+        <!--<span style='color:red;margin-right:4.00em; display:inline-block;'>&nbsp;</span>
+        <a href="https://mlh.io" target="_blank"><img
+                src="img/mlh_logo2.png" title="MLH"
+                alt="MLH" style="width:20%;"></a>
+        <span style='color:red;margin-right:5.00em; display:inline-block;'>&nbsp;</span> -->
+        <!-- <a href="https://objectcomputing.com" target="_blank"><img
+                src="img/oci_logo.jpg" title="OCI"
+                alt="OCI" style="width:30%;"></a>
+        <br> -->
+        <!-- <a href="https://www.enterpriseholdings.com/en/index.html" target="_blank"><img
+                 src="img/EHI_Logo.png" title="Enterprise"
+                 alt="Enterprise" style="width:27%;"></a>
+         <span style='color:red;margin-right:2.00em; display:inline-block;'>&nbsp;</span> -->
+        <a href="http://www.downtowntrex.org" target="_blank"><img
+                    src="img/Trex_Logo.png" title="TREX"
+                    alt="TREX" style="width:27%;"></a>
+        <span style='color:red;margin-right:2.00em; display:inline-block;'>&nbsp;</span>
+        <a href="http://bjsprintables.com/index.php" target="_blank"><img
+                    src="img/bjs_Logo.png" title="BJS"
+                    alt="BJS" style="width:27%;"></a>
+        <br>
+        <a href="https://www.bayer.com" target="_blank"><img
+                    src="img/bayer.png" title="Bayer"
+                    alt="Bayer" style="width:37%;"></a>
+        <br>
+        <a href="http://www.siue.edu" target="_blank"><img
+                    src="img/Siue_stylized_wordmark.png" title="SIUE"
+                    alt="SIUE" style="width:35%;"></a>
     </div>
     <br>
 </section>
