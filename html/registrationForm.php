@@ -1,3 +1,6 @@
+<!DOCTYPE html>
+<html>
+
 <head>
 
     <meta charset="utf-8">
@@ -246,9 +249,11 @@
 
             <!-- Form Start - Allergies -->
             <div class="form-group">
-                <label for="allergies" class="col-sm-3 control-label">Allergies and/or dietary restrictions (vegan, etc)</label>
+                <label for="allergies" class="col-sm-3 control-label">Allergies and/or dietary restrictions (vegan,
+                    etc)</label>
                 <div class="col-sm-9">
-                    <textarea id="allergies" name="allergyText" placeholder="Allergies / Dietary Restrictions" class="form-control"
+                    <textarea id="allergies" name="allergyText" placeholder="Allergies / Dietary Restrictions"
+                              class="form-control"
                               style="height: 75px; resize: none"></textarea>
                 </div>
             </div>
@@ -404,3 +409,6 @@
 
 <!-- Theme JavaScript -->
 <script src="js/creative.min.js"></script>
+
+</body>
+</html>
