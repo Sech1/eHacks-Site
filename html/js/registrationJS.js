@@ -93,7 +93,7 @@ function validate() {
     } else if (!inpObj.value.match(alphaNum)) {
         inpObj.setAttribute("placeholder", "Please only use alpha numeric characters");
         errorMessage += '<span style="color:red">Required Field - Please enter a valid first name.  (Remove spaces,\',etc)</span><br>';
-        document.getElementById('firstNameError').innerHTML = '<span style="color:red">Enter valid first name.</span><br>';
+        document.getElementById('firstNameError').innerHTML = '<span style="color:red">Enter valid first name. (Remove spaces,\',etc)</span><br>';
         firstValid = false;
     } else {
         firstValid = true;
@@ -108,6 +108,7 @@ function validate() {
     } else if (!lastObj.value.match(alphaNum)) {
         inpObj.setAttribute("placeholder", "Please only use alpha numeric characters");
         errorMessage += '<span style="color:red">Required Field - Please enter a valid last name.  (Remove spaces,\',etc)</span><br>';
+        document.getElementById('lastNameError').innerHTML = '<span style="color:red">Enter valid last name.  (Remove spaces,\',etc)</span><br>';
         document.getElementById('lastNameError').innerHTML = '<span style="color:red">Enter valid last name.  (Remove spaces,\',etc)</span><br>';
         lastValid = false;
     } else {
