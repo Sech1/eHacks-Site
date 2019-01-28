@@ -41,6 +41,8 @@ if ($_SERVER['REQUEST_METHOD'] == "POST") {
     $ethSel = strip_tags($_POST['ethnicitySelect']);
     //$gender = $_POST['gender'];
     $gender = strip_tags($_POST['gender']);
+    //Allergies
+    $allergies = strip_tags($_POST['allergyText']);
     //$shirt = $_POST['shirtSize'];
     $shirt = strip_tags($_POST['shirtSize']);
     //$bus = $_POST['bus'];
@@ -71,7 +73,7 @@ if ($_SERVER['REQUEST_METHOD'] == "POST") {
 
         echo REDIRECT;
 
-        connect($firstName, $lastName, $email, $eduIns, $ethSel, $gender, $shirt, $file, $bus);
+        connect($firstName, $lastName, $email, $eduIns, $ethSel, $gender, $shirt, $file, $bus, $allergies);
         emailReg($firstName, $lastName, $email, $eduIns, $doBus);
         redirect();
     } else {
@@ -96,7 +98,7 @@ function redirect()
 }
 
 //Connects to DB and writes data to database & table.
-function connect($first, $last, $email, $edu, $eth, $gender, $shirt, $file, $bus)
+function connect($first, $last, $email, $edu, $eth, $gender, $shirt, $file, $bus, $allergies)
 {
     $conn = new mysqli(DB_HOST, DB_USR, DB_PWD);
     $conn->select_db(DB_NAME);
@@ -106,8 +108,8 @@ function connect($first, $last, $email, $edu, $eth, $gender, $shirt, $file, $bus
     }
 
     $insertData = "INSERT INTO ehacks2019_registration(
-                          First_Name, Last_Name, Email, School, Gender, Race, Shirt_Size, File, Bus)
-                   VALUES ('$first','$last','$email','$edu','$gender','$eth','$shirt','$file','$bus')";
+                          First_Name, Last_Name, Email, School, Gender, Race, Allergies, Shirt_Size, File, Bus)
+                   VALUES ('$first','$last','$email','$edu','$gender','$eth', '$allergies','$shirt','$file','$bus')";
 
     $conn->query($insertData);
 }

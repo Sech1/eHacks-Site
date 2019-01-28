@@ -244,6 +244,16 @@
             </div>
             <!--Form End - GENDER-->
 
+            <!-- Form Start - Allergies -->
+            <div class="form-group">
+                <label for="allergies" class="col-sm-3 control-label">Allergies and/or dietary restrictions (vegan, etc)</label>
+                <div class="col-sm-9">
+                    <textarea id="allergies" name="allergyText" placeholder="Allergies / Dietary Restrictions" class="form-control"
+                              style="height: 75px; resize: none"></textarea>
+                </div>
+            </div>
+            <!-- Form End - Allergies -->
+
             <!--Form Start - TSHIRT-->
             <div class="form-group">
                 <label class="control-label col-sm-3">T-Shirt Size</label>
