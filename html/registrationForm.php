@@ -302,12 +302,12 @@
             <div class="form-group">
                 <label for="fileUpload" class="col-sm-3 control-label">Select Resume</label>
                 <div class="col-sm-9" id="fileDiv">
-                    <input id='buttonid' type='button' value='Upload Resume (.pdf, .docx, etc)'/>
+                    <input id='buttonid' type='button' value='Upload Resume (.pdf ONLY)'/>
                     <span id="fileName">
                     </span>
                 </div>
             </div>
-            <input type="file" accept=".pdf, .docx, .doc, application/msword, application/pdf" id="fileUpload"
+            <input type="file" accept=".pdf, application/pdf" id="fileUpload"
                    name="resumeUpload" style="display:none"/>
 
             <div class="form-group">
