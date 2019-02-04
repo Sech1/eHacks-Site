@@ -395,7 +395,7 @@
         <br>
         <a href="http://www.siue.edu" target="_blank"><img
                     src="img/Siue_stylized_wordmark.png" title="SIUE"
-                    alt="SIUE" style="width:35%;"></a>
+                    alt="SIUE" style="width:23%;"></a>
         <br>
     </div>
 </section>
