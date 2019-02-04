@@ -348,13 +348,15 @@
             <h2 class="section-heading">Sponsors</h2>
             <hr class="primary">
         </div>
-        <span class="col-lg-12 text-center"><a href="https://www.centene.com" target="_blank"><img
+        <div align="center">
+            <a href="https://www.centene.com" target="_blank"><img
                         src="img/CENTENE_LOGO.jpg" title="Centene"
-                        alt="Centene" style="width:70%;"></a></span>
-        <br>
+                        alt="Centene" style="width:70%; margin-top: 1px; margin-bottom: 1px;"></a>
+            <br>
+        </div>
         <div align="center">
             <a href="https://www.allscripts.com" target="_blank"><img
-                        src="img/Allscripts-Logo.png" title="Bayer"
+                        src="img/Allscripts-Logo.png" title="AllScripts"
                         alt="Bayer" style="width:55%; margin-top: 5px; margin-bottom: 5px;"></a>
             <br>
         </div>
