@@ -361,15 +361,14 @@
         <div align="center">
             <a href="https://www.bayer.com" target="_blank"><img
                         src="img/bayer.png" title="Bayer"
-                        alt="Bayer" style="width:55%;"></a>
+                        alt="Bayer" style="width:45%;"></a>
+            <a href="https://www.att.com" target="_blank"><img
+                        src="img/att_logo.jpg" title="ATT"
+                        alt="ATT" style="width: 45%;"></a>
             <br>
         </div>
     </div>
     <div align="center">
-        <a href="https://www.att.com" target="_blank"><img
-                  src="img/att_logo.jpg" title="ATT"
-                  alt="ATT" style="width: 45%;"></a>
-          <br>
         <!-- <a href="https://www.nisc.coop" target="_blank">
              <img src="img/nisc_logo.png" title="NISC"
                   alt="NISC" style="width: 20%;"></a> -->
