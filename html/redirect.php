@@ -44,7 +44,7 @@ $redirect = "<head>
         <div class=\"header-content-inner\">
             <img src=\"img/ehacks-text-large.png\">
             <hr>
-            <p style=\"font-size: 150%\">March 2nd-4th, 2018 at the T-Rex building</p>
+            <p style=\"font-size: 150%\">March 8th-10th, 2019 at the T-Rex building</p>
 
         </div>
     </div>

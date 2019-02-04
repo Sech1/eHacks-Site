@@ -353,6 +353,12 @@
                         alt="Centene" style="width:70%;"></a></span>
         <br>
         <div align="center">
+            <a href="https://www.allscripts.com" target="_blank"><img
+                        src="img/Allscripts-Logo.png" title="Bayer"
+                        alt="Bayer" style="width:55%; margin-top: 5px; margin-bottom: 5px;"></a>
+            <br>
+        </div>
+        <div align="center">
             <a href="https://www.bayer.com" target="_blank"><img
                         src="img/bayer.png" title="Bayer"
                         alt="Bayer" style="width:55%;"></a>
@@ -360,10 +366,10 @@
         </div>
     </div>
     <div align="center">
-        <!--  <a href="https://www.att.com" target="_blank"><img
+        <a href="https://www.att.com" target="_blank"><img
                   src="img/att_logo.jpg" title="ATT"
                   alt="ATT" style="width: 45%;"></a>
-          <br> -->
+          <br>
         <!-- <a href="https://www.nisc.coop" target="_blank">
              <img src="img/nisc_logo.png" title="NISC"
                   alt="NISC" style="width: 20%;"></a> -->
