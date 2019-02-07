@@ -83,7 +83,7 @@ $emailGen = '<html>
                         <div class="headline"
                              style="-moz-osx-font-smoothing: grayscale; -webkit-font-smoothing: antialiased; border-bottom-color: rgba(0, 0, 0, 0.1); border-bottom-style: solid; border-width: 0 0 1px; font-size: normal; font-style: normal; font-variant: normal; font-weight: normal; height: 113px; line-height: normal; margin: auto 30px; padding: 0; vertical-align: baseline;">
                             <h2 style="-moz-osx-font-smoothing: grayscale; -webkit-font-smoothing: antialiased; border: 0; color: #1E2C3A; font: 400 30px/40px apple-system, BlinkMacSystemFont, Arial, \'Segoe UI\', \'Helvetica Neue\', sans-serif; margin: 0; padding: 35px 0 0; vertical-align: baseline;"
-                                align="center">eHacks After Party</h2>
+                                align="center">2019 eHacks - Registration Open</h2>
 
                         </div>
                     </td>
@@ -119,11 +119,11 @@ $emailGen = '<html>
                                 <td align="center" bgcolor="#ffffff"
                                     style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; border-radius: 0 0 10px 10px; mso-table-lspace: 0; mso-table-rspace: 0; padding: 25px;">
                                     <div class="icon"
-                                         style="-moz-osx-font-smoothing: grayscale; -webkit-font-smoothing: antialiased; border: 0; border-radius: 50%; font-size: normal; font-style: normal; font-variant: normal; font-weight: normal; height: 240px; line-height: normal; margin: 25px auto; padding: 0; vertical-align: baseline; width: 240px;">
+                                         style="-moz-osx-font-smoothing: grayscale; -webkit-font-smoothing: antialiased; border: 0; border-radius: 50%; font-size: normal; font-style: normal; font-variant: normal; font-weight: normal; height: 250px; line-height: normal; margin: 25px auto; padding: 0; vertical-align: baseline; width: 280px;">
                                         <!--suppress HtmlDeprecatedTag, HtmlDeprecatedTag -->
                                         <center>
-                                            <img src="http://ehacks.cs.siue.edu/img/ehacks_confir_note.png" alt=""
-                                                 style="-moz-osx-font-smoothing: grayscale; -ms-interpolation-mode: bicubic; -webkit-font-smoothing: antialiased; border: 0; font-size: normal; font-style: normal; font-variant: normal; font-weight: normal; height: 240px; line-height: normal; margin: 0; max-height: 100%; max-width: 100%; outline: none; padding: 0; text-decoration: none; vertical-align: baseline; width: 240px;">
+                                            <img src="http://ehacks.cs.siue.edu/img/ehacks2019_logo.png" alt=""
+                                                 style="-moz-osx-font-smoothing: grayscale; -ms-interpolation-mode: bicubic; -webkit-font-smoothing: antialiased; border: 0; font-size: normal; font-style: normal; font-variant: normal; font-weight: normal; height: 100%; width: 100%; line-height: normal; margin: 0; max-height: 100%; max-width: 100%; outline: none; padding: 0; text-decoration: none; vertical-align: baseline;">
                                         </center>
                                     </div>
                                     <table cellspacing="0" cellpadding="0" border="0" width="100%"
@@ -140,15 +140,15 @@ $emailGen = '<html>
                                                 </p>
                                             <br>
                                         <p style="-moz-osx-font-smoothing: grayscale; -webkit-font-smoothing: antialiased; border: 0; color: #667685; font: 400 16px/25px apple-system, BlinkMacSystemFont, Arial, \'Segoe UI\', \'Helvetica Neue\', sans-serif; margin: 0 0 10px; padding: 0; vertical-align: baseline;">
-                                           eHacks 2019 registration is open until Febuary 22, 2019.</p>
+                                           eHacks 2019 registration is open until February 22, 2019.</p>
                                                                                    <p style="-moz-osx-font-smoothing: grayscale; -webkit-font-smoothing: antialiased; border: 0; color: #667685; font: 400 16px/25px apple-system, BlinkMacSystemFont, Arial, \'Segoe UI\', \'Helvetica Neue\', sans-serif; margin: 0 0 10px; padding: 0; vertical-align: baseline;">
-                                                                                   Register for eHacks 2019 <a href="https://ehacks.cs.siue.edu">HERE!</a> 
+                                                                                   Register for eHacks 2019 <a href="https://ehacks.cs.siue.edu" target="_blank">HERE!</a>
                                                                                    <br>
-                                                                                   Check us out on <a href="https://www.facebook.com/ehacksSIUE/">Facebook!</a>
+                                                                                   Check us out on <a href="https://www.facebook.com/ehacksSIUE/" target="_blank">Facebook!</a>
                                                                                    </p>
                                                                                    <br>
                                                                                    - eHacks 2019 Team
-                                                                                   
+                                                                                   <br>
                                             <p style="-moz-osx-font-smoothing: grayscale; -webkit-font-smoothing: antialiased; border: 0; color: #667685; font: 400 16px/25px apple-system, BlinkMacSystemFont, Arial, \'Segoe UI\', \'Helvetica Neue\', sans-serif; margin: 0 0 10px; padding: 0; vertical-align: baseline;">
                                             If anyone has questions or concerns, please contact: <a href="mailto:jaschoo@siue.edu">jaschoo@siue.edu</a>
                                         </p>
@@ -186,7 +186,12 @@ $emailGen = '<html>
             <tr>
                 <td align="center" valign="top"
                     style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; color: #999999; font-family: Open Sans, Helvetica, Arial, sans-serif; mso-table-lspace: 0; mso-table-rspace: 0; padding: 0;">
-                    <p style="font-size: 14px; line-height: 20px;">© eHacks 2018</p>
+                    <p style="font-size: 14px; line-height: 20px;">© eHacks 2019</p>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    &nbsp;
                 </td>
             </tr>
             </tbody>
@@ -203,7 +208,8 @@ $emailGen = '<html>
 
 </body>
 
-</html>';
+</html>
+';
 
 DEFINE('GENERAL_EMAIL', $emailGen);
 ?>
