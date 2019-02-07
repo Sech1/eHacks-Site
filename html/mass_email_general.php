@@ -149,6 +149,8 @@ $emailGen = '<html>
                                                                                    <br>
                                                                                    - eHacks 2019 Team
                                                                                    <br>
+                                                                                   <br>
+                                                                                   <br>
                                             <p style="-moz-osx-font-smoothing: grayscale; -webkit-font-smoothing: antialiased; border: 0; color: #667685; font: 400 16px/25px apple-system, BlinkMacSystemFont, Arial, \'Segoe UI\', \'Helvetica Neue\', sans-serif; margin: 0 0 10px; padding: 0; vertical-align: baseline;">
                                             If anyone has questions or concerns, please contact: <a href="mailto:jaschoo@siue.edu">jaschoo@siue.edu</a>
                                         </p>
