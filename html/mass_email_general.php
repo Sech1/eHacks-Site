@@ -133,20 +133,25 @@ $emailGen = '<html>
                                             <p align="center"
                                                style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; font-family: Open Sans, Helvetica, Arial, sans-serif; mso-table-lspace: 0; mso-table-rspace: 0;">
                                             <h2 style="-moz-osx-font-smoothing: grayscale; -webkit-font-smoothing: antialiased; border: 0; color: #1E2C3A; font: 400 30px/40px apple-system, BlinkMacSystemFont, Arial, \'Segoe UI\', \'Helvetica Neue\', sans-serif; margin: 0; padding: 15px 0; vertical-align: baseline;"
-                                                align="center">eHacks After-party Information</h2>
+                                                align="center">eHacks 2019 Reminder - Greetings eHacks 2018 Attendees!</h2>
 
                                             <p style="-moz-osx-font-smoothing: grayscale; -webkit-font-smoothing: antialiased; border: 0; color: #667685; font: 400 16px/25px apple-system, BlinkMacSystemFont, Arial, \'Segoe UI\', \'Helvetica Neue\', sans-serif; margin: 0 0 10px; padding: 0; vertical-align: baseline;">
-                                                We wanted to email everyone who attended eHacks about the after-party taking place tomorrow in the EB building.</p>
+                                            eHacks 2019 brought in a multitude of projects & ideas. We would like to invite you back for another weekend of free food, fun, and hacking!
+                                                </p>
                                             <br>
                                         <p style="-moz-osx-font-smoothing: grayscale; -webkit-font-smoothing: antialiased; border: 0; color: #667685; font: 400 16px/25px apple-system, BlinkMacSystemFont, Arial, \'Segoe UI\', \'Helvetica Neue\', sans-serif; margin: 0 0 10px; padding: 0; vertical-align: baseline;">
-                                            The <b>{eHacks} after party</b> will be <b>April 27th noon to 4pm in the EB atrium</b> ... pizza, soda, games, a chance to win great prizes (and maybe a mini career fair) ... prizes include Chromebooks (seriously, Chromebooks!). You MUST be present to win!</p>
+                                           eHacks 2019 registration is open until Febuary 22, 2019.</p>
+                                                                                   <p style="-moz-osx-font-smoothing: grayscale; -webkit-font-smoothing: antialiased; border: 0; color: #667685; font: 400 16px/25px apple-system, BlinkMacSystemFont, Arial, \'Segoe UI\', \'Helvetica Neue\', sans-serif; margin: 0 0 10px; padding: 0; vertical-align: baseline;">
+                                                                                   Register for eHacks 2019 <a href="https://ehacks.cs.siue.edu">HERE!</a> 
+                                                                                   <br>
+                                                                                   Check us out on <a href="https://www.facebook.com/ehacksSIUE/">Facebook!</a>
+                                                                                   </p>
+                                                                                   <br>
+                                                                                   - eHacks 2019 Team
+                                                                                   
                                             <p style="-moz-osx-font-smoothing: grayscale; -webkit-font-smoothing: antialiased; border: 0; color: #667685; font: 400 16px/25px apple-system, BlinkMacSystemFont, Arial, \'Segoe UI\', \'Helvetica Neue\', sans-serif; margin: 0 0 10px; padding: 0; vertical-align: baseline;">
-                                            <p style="-moz-osx-font-smoothing: grayscale; -webkit-font-smoothing: antialiased; border: 0; color: #667685; font: 400 16px/25px apple-system, BlinkMacSystemFont, Arial, \'Segoe UI\', \'Helvetica Neue\', sans-serif; margin: 0 0 10px; padding: 0; vertical-align: baseline;">
-                                            If anyone has questions they can go ahead and email me at <a href="mailto:jaschoo@siue.edu">jaschoo@siue.edu</a>
+                                            If anyone has questions or concerns, please contact: <a href="mailto:jaschoo@siue.edu">jaschoo@siue.edu</a>
                                         </p>
-                                            <p style="-moz-osx-font-smoothing: grayscale; -webkit-font-smoothing: antialiased; border: 0; color: #667685; font: 400 16px/25px apple-system, BlinkMacSystemFont, Arial, \'Segoe UI\', \'Helvetica Neue\', sans-serif; margin: 0 0 10px; padding: 0; vertical-align: baseline;">
-                                                We hope to see you all there!
-                                            </p>
                                                     <td><br></td>
                                                 </tr>
                                                 </tbody>
