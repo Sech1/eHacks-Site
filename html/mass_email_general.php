@@ -133,35 +133,36 @@ $emailGen = '<html>
                                             <p align="center"
                                                style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; font-family: Open Sans, Helvetica, Arial, sans-serif; mso-table-lspace: 0; mso-table-rspace: 0;">
                                             <h2 style="-moz-osx-font-smoothing: grayscale; -webkit-font-smoothing: antialiased; border: 0; color: #1E2C3A; font: 400 30px/40px apple-system, BlinkMacSystemFont, Arial, \'Segoe UI\', \'Helvetica Neue\', sans-serif; margin: 0; padding: 15px 0; vertical-align: baseline;"
-                                                align="center">eHacks 2019 Reminder - Greetings eHacks 2018 Attendees!</h2>
+                                                align="center">eHacks 2019 Reminder - Greetings eHacks 2018
+                                                Attendees!</h2>
 
                                             <p style="-moz-osx-font-smoothing: grayscale; -webkit-font-smoothing: antialiased; border: 0; color: #667685; font: 400 16px/25px apple-system, BlinkMacSystemFont, Arial, \'Segoe UI\', \'Helvetica Neue\', sans-serif; margin: 0 0 10px; padding: 0; vertical-align: baseline;">
-                                            eHacks 2019 brought in a multitude of projects & ideas. We would like to invite you back for another weekend of free food, fun, and hacking!
-                                                </p>
+                                                eHacks 2019 brought in a multitude of projects & ideas. We would like to
+                                                invite you back for another weekend of free food, fun, and hacking!
+                                            </p>
                                             <br>
-                                        <p style="-moz-osx-font-smoothing: grayscale; -webkit-font-smoothing: antialiased; border: 0; color: #667685; font: 400 16px/25px apple-system, BlinkMacSystemFont, Arial, \'Segoe UI\', \'Helvetica Neue\', sans-serif; margin: 0 0 10px; padding: 0; vertical-align: baseline;">
-                                           eHacks 2019 registration is open until February 22, 2019.</p>
-                                                                                   <p style="-moz-osx-font-smoothing: grayscale; -webkit-font-smoothing: antialiased; border: 0; color: #667685; font: 400 16px/25px apple-system, BlinkMacSystemFont, Arial, \'Segoe UI\', \'Helvetica Neue\', sans-serif; margin: 0 0 10px; padding: 0; vertical-align: baseline;">
-                                                                                   Register for eHacks 2019 <a href="https://ehacks.cs.siue.edu" target="_blank">HERE!</a>
-                                                                                   <br>
-                                                                                   Check us out on <a href="https://www.facebook.com/ehacksSIUE/" target="_blank">Facebook!</a>
-                                                                                   </p>
-                                                                                   <br>
-                                                                                   - eHacks 2019 Team
-                                                                                   <br>
-                                                                                   <br>
-                                                                                   <br>
                                             <p style="-moz-osx-font-smoothing: grayscale; -webkit-font-smoothing: antialiased; border: 0; color: #667685; font: 400 16px/25px apple-system, BlinkMacSystemFont, Arial, \'Segoe UI\', \'Helvetica Neue\', sans-serif; margin: 0 0 10px; padding: 0; vertical-align: baseline;">
-                                            If anyone has questions or concerns, please contact: <a href="mailto:jaschoo@siue.edu">jaschoo@siue.edu</a>
-                                        </p>
-                                                    <td><br></td>
-                                                </tr>
-                                                </tbody>
-                                            </table>
+                                                eHacks 2019 registration is open until February 22, 2019.</p>
+                                            <p style="-moz-osx-font-smoothing: grayscale; -webkit-font-smoothing: antialiased; border: 0; color: #667685; font: 400 16px/25px apple-system, BlinkMacSystemFont, Arial, \'Segoe UI\', \'Helvetica Neue\', sans-serif; margin: 0 0 10px; padding: 0; vertical-align: baseline;">
+                                                Register for eHacks 2019 <a href="https://ehacks.cs.siue.edu"
+                                                                            target="_blank">HERE!</a>
+                                                <br>
+                                                Check us out on <a href="https://www.facebook.com/ehacksSIUE/"
+                                                                   target="_blank">Facebook!</a>
+                                            </p>
+                                            <br>
+                                            - eHacks 2019 Team
+                                            <br>
+                                            <br>
+                                            <br>
+                                            <p style="-moz-osx-font-smoothing: grayscale; -webkit-font-smoothing: antialiased; border: 0; color: #667685; font: 400 16px/25px apple-system, BlinkMacSystemFont, Arial, \'Segoe UI\', \'Helvetica Neue\', sans-serif; margin: 0 0 10px; padding: 0; vertical-align: baseline;">
+                                                If anyone has questions or concerns, please contact: <a
+                                                    href="mailto:siuehacks@gmail.com">siuehacks@gmail.com</a>
+                                            </p>
+                                            <td><br></td>
                                         </tr>
                                         </tbody>
                                     </table>
-                                </td>
                             </tr>
                             </tbody>
                         </table>
@@ -169,49 +170,52 @@ $emailGen = '<html>
                 </tr>
                 </tbody>
             </table>
-            <!--[if (gte mso 9)|(IE)]>
-            </td>
-            </tr>
-            </table>
-            <![endif]-->
-        </td>
-    </tr>
-    <tr>
-        <!--[if (gte mso 9)|(IE)]>
-        <table align="center" border="0" cellspacing="0" cellpadding="0" width="600">
-            <tr>
-                <td align="center" valign="top" width="600">
-        <![endif]-->
-        <table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"
-               style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; border-collapse: collapse !important; max-width: 600px; mso-table-lspace: 0; mso-table-rspace: 0;">
-            <tbody>
-            <tr>
-                <td align="center" valign="top"
-                    style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; color: #999999; font-family: Open Sans, Helvetica, Arial, sans-serif; mso-table-lspace: 0; mso-table-rspace: 0; padding: 0;">
-                    <p style="font-size: 14px; line-height: 20px;">© eHacks 2019</p>
-                </td>
-            </tr>
-            <tr>
-                <td>
-                    &nbsp;
-                </td>
-            </tr>
-            </tbody>
-        </table>
-        <!--[if (gte mso 9)|(IE)]>
-        </td>
-        </tr>
-        </table>
-        <![endif]-->
         </td>
     </tr>
     </tbody>
 </table>
+<!--[if (gte mso 9)|(IE)]>
+</td>
+</tr>
+</table>
+<![endif]-->
+</td>
+</tr>
+<tr>
+    <!--[if (gte mso 9)|(IE)]>
+    <table align="center" border="0" cellspacing="0" cellpadding="0" width="600">
+        <tr>
+            <td align="center" valign="top" width="600">
+    <![endif]-->
+    <table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"
+           style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; border-collapse: collapse !important; max-width: 600px; mso-table-lspace: 0; mso-table-rspace: 0;">
+        <tbody>
+        <tr>
+            <td align="center" valign="top"
+                style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; color: #999999; font-family: Open Sans, Helvetica, Arial, sans-serif; mso-table-lspace: 0; mso-table-rspace: 0; padding: 0;">
+                <p style="font-size: 14px; line-height: 20px;">© eHacks 2019</p>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                &nbsp;
+            </td>
+        </tr>
+        </tbody>
+    </table>
+    <!--[if (gte mso 9)|(IE)]>
+    </td>
+    </tr>
+    </table>
+    <![endif]-->
+    </td>
+</tr>
+</tbody>
+</table>
 
 </body>
 
-</html>
-';
+</html>';
 
 DEFINE('GENERAL_EMAIL', $emailGen);
 ?>
