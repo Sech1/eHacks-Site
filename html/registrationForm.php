@@ -358,9 +358,9 @@
             <a href="https://www.allscripts.com" target="_blank"><img
                         src="img/Allscripts-Logo.png" title="AllScripts"
                         alt="Bayer" style="width:55%; margin-top: 5px; margin-bottom: 5px;"></a>
-            <a href="https://www.nisc.coop" target="_blank">
+            <!--<a href="https://www.nisc.coop" target="_blank">
                 <img src="img/nisc_logo.png" title="NISC"
-                     alt="NISC" style="width: 22%; margin-left: 50px; margin-top: 10px; margin-bottom: 10px;"></a>
+                     alt="NISC" style="width: 22%; margin-left: 50px; margin-top: 10px; margin-bottom: 10px;"></a>-->
             <br>
         </div>
         <div align="center">
