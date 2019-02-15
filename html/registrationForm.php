@@ -360,7 +360,7 @@
                         alt="Enterprise" style="width:74%; margin-top: 10px; margin-bottom: 20px;"></a>
             <br>
         </div>
-        <div align="center">
+        <div align="center" style="width: 100%; display: inline-block">
             <a href="https://www.allscripts.com" target="_blank"><img
                         src="img/Allscripts-Logo.png" title="Allscripts"
                         alt="Bayer" style="width:40%; margin-top: 5px; margin-bottom: 5px;"></a>
@@ -372,6 +372,8 @@
                         src="img/oci_logo.jpg" title="OCI"
                         alt="OCI" style="width:25%; margin-left: 20px;"></a>
             <br>
+        </div>
+        <div align="center" style="width: 100%; display: inline-block">
             <a href="https://www.bayer.com" target="_blank"><img
                         src="img/bayer.png" title="Bayer"
                         alt="Bayer" style="width:33%;"></a>
