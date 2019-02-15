@@ -361,7 +361,7 @@
             <br>
         </div>
         <div align="center" style="width: 100%; align-items: center; overflow: hidden">
-            <div class="img-responsive" style="width:33%; margin-top: 5px; margin-bottom: 5px; display: inline-block;">
+            <div class="img-responsive" style="width:30%; margin-top: 5px; margin-bottom: 5px; display: inline-block;">
                 <a href="https://www.allscripts.com" target="_blank"><img
                             src="img/Allscripts-Logo.png" title="Allscripts"
                             alt="Bayer" style="width: 100%"></a>
@@ -371,7 +371,7 @@
                     <img src="img/nisc_logo.png" title="NISC"
                          alt="NISC" style="width: 100%"></a>
             </div>
-            <div class="img-responsive" style="width:33%; display: inline-block;">
+            <div class="img-responsive" style="width:30%; display: inline-block;">
                 <a href="https://objectcomputing.com" target="_blank"><img
                             src="img/oci_logo.jpg" title="OCI"
                             alt="OCI" style="width: 100%"></a>
