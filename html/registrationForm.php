@@ -355,41 +355,42 @@
             <br>
         </div>
         <div align="center">
-            <a href="https://www.allscripts.com" target="_blank"><img
-                        src="img/Allscripts-Logo.png" title="AllScripts"
-                        alt="Bayer" style="width:55%; margin-top: 5px; margin-bottom: 5px;"></a>
-            <!--<a href="https://www.nisc.coop" target="_blank">
-                <img src="img/nisc_logo.png" title="NISC"
-                     alt="NISC" style="width: 22%; margin-left: 50px; margin-top: 10px; margin-bottom: 10px;"></a>-->
+            <a href="https://www.enterpriseholdings.com/en/index.html" target="_blank"><img
+                        src="img/EHI_Logo.png" title="Enterprise"
+                        alt="Enterprise" style="width:74%; margin-top: 10px; margin-bottom: 20px;"></a>
             <br>
         </div>
         <div align="center">
+            <a href="https://www.allscripts.com" target="_blank"><img
+                        src="img/Allscripts-Logo.png" title="Allscripts"
+                        alt="Bayer" style="width:40%; margin-top: 5px; margin-bottom: 5px;"></a>
+            <a href="https://www.nisc.coop" target="_blank">
+                <img src="img/nisc_logo.png" title="NISC"
+                     alt="NISC"
+                     style="width: 18%; margin: 10px 15px 10px 30px;"></a>
+            <a href="https://objectcomputing.com" target="_blank"><img
+                        src="img/oci_logo.jpg" title="OCI"
+                        alt="OCI" style="width:25%; margin-left: 20px;"></a>
+            <br>
             <a href="https://www.bayer.com" target="_blank"><img
                         src="img/bayer.png" title="Bayer"
-                        alt="Bayer" style="width:45%;"></a>
+                        alt="Bayer" style="width:33%;"></a>
             <a href="https://www.att.com" target="_blank"><img
                         src="img/att_logo.jpg" title="ATT"
-                        alt="ATT" style="width: 45%;"></a>
+                        alt="ATT" style="width: 33%;"></a>
+            <a href="https://www.edwardjones.com/index.html" target="_blank"><img
+                        src="img/EdwardJones.png" title="EdwardJones"
+                        alt="EdwardJones" style="width: 33%;"></a>
             <br>
         </div>
     </div>
     <div align="center">
-        <!-- <a href="https://www.nisc.coop" target="_blank">
-             <img src="img/nisc_logo.png" title="NISC"
-                  alt="NISC" style="width: 20%;"></a> -->
         <!--<span style='color:red;margin-right:4.00em; display:inline-block;'>&nbsp;</span>
         <a href="https://mlh.io" target="_blank"><img
                 src="img/mlh_logo2.png" title="MLH"
                 alt="MLH" style="width:20%;"></a>
         <span style='color:red;margin-right:5.00em; display:inline-block;'>&nbsp;</span> -->
-        <!-- <a href="https://objectcomputing.com" target="_blank"><img
-                src="img/oci_logo.jpg" title="OCI"
-                alt="OCI" style="width:30%;"></a>
-        <br> -->
-        <!-- <a href="https://www.enterpriseholdings.com/en/index.html" target="_blank"><img
-                 src="img/EHI_Logo.png" title="Enterprise"
-                 alt="Enterprise" style="width:27%;"></a>
-         <span style='color:red;margin-right:2.00em; display:inline-block;'>&nbsp;</span> -->
+        <br>
         <a href="http://www.downtowntrex.org" target="_blank"><img
                     src="img/Trex_Logo.png" title="TREX"
                     alt="TREX" style="width:27%;"></a>
@@ -401,8 +402,8 @@
         <a href="http://www.siue.edu" target="_blank"><img
                     src="img/Siue_stylized_wordmark.png" title="SIUE"
                     alt="SIUE" style="width:23%;"></a>
-        <br>
     </div>
+    <br>
 </section>
 
 <!-- jQuery -->
