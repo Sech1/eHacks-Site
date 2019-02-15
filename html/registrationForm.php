@@ -433,5 +433,13 @@
 <!-- Theme JavaScript -->
 <script src="js/creative.min.js"></script>
 
+<!-- Other JavaScript -->
+<script src="js/httpsRedirect.js"></script>
+<script>
+    $( document ).ready(function() {
+        redirect();
+    });
+</script>
+
 </body>
 </html>
