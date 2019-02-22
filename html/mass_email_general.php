@@ -83,7 +83,7 @@ $emailGen = '<html>
                         <div class="headline"
                              style="-moz-osx-font-smoothing: grayscale; -webkit-font-smoothing: antialiased; border-bottom-color: rgba(0, 0, 0, 0.1); border-bottom-style: solid; border-width: 0 0 1px; font-size: normal; font-style: normal; font-variant: normal; font-weight: normal; height: 113px; line-height: normal; margin: auto 30px; padding: 0; vertical-align: baseline;">
                             <h2 style="-moz-osx-font-smoothing: grayscale; -webkit-font-smoothing: antialiased; border: 0; color: #1E2C3A; font: 400 30px/40px apple-system, BlinkMacSystemFont, Arial, \'Segoe UI\', \'Helvetica Neue\', sans-serif; margin: 0; padding: 35px 0 0; vertical-align: baseline;"
-                                align="center">2019 eHacks - Registration Open</h2>
+                                align="center">2019 eHacks - Registration Open - Last Reminder</h2>
 
                         </div>
                     </td>
@@ -135,9 +135,13 @@ $emailGen = '<html>
                                             <h2 style="-moz-osx-font-smoothing: grayscale; -webkit-font-smoothing: antialiased; border: 0; color: #1E2C3A; font: 400 30px/40px apple-system, BlinkMacSystemFont, Arial, \'Segoe UI\', \'Helvetica Neue\', sans-serif; margin: 0; padding: 15px 0; vertical-align: baseline;"
                                                 align="center">eHacks 2019 Reminder - Greetings eHacks 2018
                                                 Attendees!</h2>
+                                                  <p style="-moz-osx-font-smoothing: grayscale; -webkit-font-smoothing: antialiased; border: 0; color: #667685; font: 400 16px/25px apple-system, BlinkMacSystemFont, Arial, \'Segoe UI\', \'Helvetica Neue\', sans-serif; margin: 0 0 10px; padding: 0; vertical-align: baseline;">
+                                                  We wanted to send out one final reminder to everyone, registration closes soon! - If you want to be guaranteed a t-shirt, register now!
+                                                  </p>
+                                                
 
                                             <p style="-moz-osx-font-smoothing: grayscale; -webkit-font-smoothing: antialiased; border: 0; color: #667685; font: 400 16px/25px apple-system, BlinkMacSystemFont, Arial, \'Segoe UI\', \'Helvetica Neue\', sans-serif; margin: 0 0 10px; padding: 0; vertical-align: baseline;">
-                                                eHacks 2019 brought in a multitude of projects & ideas. We would like to
+                                                eHacks 2018 brought in a multitude of projects & ideas. We would like to
                                                 invite you back for another weekend of free food, fun, and hacking!
                                             </p>
                                             <br>
