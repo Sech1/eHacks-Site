@@ -322,6 +322,11 @@
 
             <div class="form-group">
                 <div class="col-sm-9 col-sm-offset-3">
+                    <div class="col-sm-offset-0" style="margin-top: 10px;">
+                        <p class="text-center">
+                            <b>Please Note: Current registration (late) does not guarantee a t-shirt.</b>
+                        </p>
+                    </div>
                     <button type="submit" class="btn btn-primary btn-block" onclick="return validate()">Register
                     </button>
                 </div>
@@ -350,21 +355,21 @@
         </div>
         <div align="center">
             <a href="https://www.centene.com" target="_blank"><img
-                        src="img/CENTENE_LOGO.jpg" title="Centene"
-                        alt="Centene" style="width:70%; margin-top: 1px; margin-bottom: 1px;"></a>
+                    src="img/CENTENE_LOGO.jpg" title="Centene"
+                    alt="Centene" style="width:70%; margin-top: 1px; margin-bottom: 1px;"></a>
             <br>
         </div>
         <div align="center">
             <a href="https://www.enterpriseholdings.com/en/index.html" target="_blank"><img
-                        src="img/EHI_Logo.png" title="Enterprise"
-                        alt="Enterprise" style="width:74%; margin-top: 10px; margin-bottom: 20px;"></a>
+                    src="img/EHI_Logo.png" title="Enterprise"
+                    alt="Enterprise" style="width:74%; margin-top: 10px; margin-bottom: 20px;"></a>
             <br>
         </div>
         <div align="center" style="width: 100%; align-items: center; overflow: hidden">
             <div class="img-responsive" style="width:33%; margin-top: 5px; margin-bottom: 5px; display: inline-block;">
                 <a href="https://www.allscripts.com" target="_blank"><img
-                            src="img/Allscripts-Logo.png" title="Allscripts"
-                            alt="Bayer" style="width: 100%"></a>
+                        src="img/Allscripts-Logo.png" title="Allscripts"
+                        alt="Bayer" style="width: 100%"></a>
             </div>
             <div class="img-responsive" style="width: 20%; margin: 20px; display: inline-block;">
                 <a href="https://www.nisc.coop" target="_blank">
@@ -373,26 +378,26 @@
             </div>
             <div class="img-responsive" style="width:33%; display: inline-block;">
                 <a href="https://objectcomputing.com" target="_blank"><img
-                            src="img/oci_logo.jpg" title="OCI"
-                            alt="OCI" style="width: 100%"></a>
+                        src="img/oci_logo.jpg" title="OCI"
+                        alt="OCI" style="width: 100%"></a>
             </div>
             <br>
         </div>
         <div align="center" style="width: 100%; align-items: center; overflow: hidden">
             <div class="img-responsive" style="width: 33%; display: inline-block; float: left">
                 <a href="https://www.bayer.com" target="_blank"><img
-                            src="img/bayer.png" title="Bayer"
-                            alt="Bayer" style="width: 100%"></a>
+                        src="img/bayer.png" title="Bayer"
+                        alt="Bayer" style="width: 100%"></a>
             </div>
             <div class="img-responsive" style="width: 33%; display: inline-block;">
                 <a href="https://www.att.com" target="_blank"><img
-                            src="img/att_logo.jpg" title="ATT"
-                            alt="ATT" style="width: 100%"></a>
+                        src="img/att_logo.jpg" title="ATT"
+                        alt="ATT" style="width: 100%"></a>
             </div>
             <div class="img-responsive" style="width: 33%; display: inline-block;">
                 <a href="https://www.edwardjones.com/index.html" target="_blank"><img
-                            src="img/EdwardJones.png" title="EdwardJones"
-                            alt="EdwardJones" style="width: 100%"></a>
+                        src="img/EdwardJones.png" title="EdwardJones"
+                        alt="EdwardJones" style="width: 100%"></a>
             </div>
             <br>
         </div>
@@ -404,16 +409,16 @@
                 alt="MLH" style="width:20%;"></a>
         <span style='color:red;margin-right:5.00em; display:inline-block;'>&nbsp;</span> -->
         <a href="http://www.downtowntrex.org" target="_blank"><img
-                    src="img/Trex_Logo.png" title="TREX"
-                    alt="TREX" style="width:27%;"></a>
+                src="img/Trex_Logo.png" title="TREX"
+                alt="TREX" style="width:27%;"></a>
         <span style='color:red;margin-right:2.00em; display:inline-block;'>&nbsp;</span>
         <a href="http://bjsprintables.com/index.php" target="_blank"><img
-                    src="img/bjs_Logo.png" title="BJS"
-                    alt="BJS" style="width:27%;"></a>
+                src="img/bjs_Logo.png" title="BJS"
+                alt="BJS" style="width:27%;"></a>
         <br>
         <a href="http://www.siue.edu" target="_blank"><img
-                    src="img/Siue_stylized_wordmark.png" title="SIUE"
-                    alt="SIUE" style="width:23%;"></a>
+                src="img/Siue_stylized_wordmark.png" title="SIUE"
+                alt="SIUE" style="width:23%;"></a>
     </div>
     <br>
 </section>
@@ -436,7 +441,7 @@
 <!-- Other JavaScript -->
 <script src="js/httpsRedirect.js"></script>
 <script>
-    $( document ).ready(function() {
+    $(document).ready(function () {
         redirect();
     });
 </script>
