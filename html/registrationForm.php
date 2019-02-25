@@ -322,7 +322,7 @@
 
             <div class="form-group">
                 <div class="col-sm-9 col-sm-offset-3">
-                    <div class="col-sm-offset-0" style="margin-top: 10px;">
+                    <div class="col-sm-offset-0">
                         <p class="text-center">
                             <b>Please Note: Current registration (late) does not guarantee a t-shirt.</b>
                         </p>
