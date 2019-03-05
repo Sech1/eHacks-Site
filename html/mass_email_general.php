@@ -141,7 +141,7 @@ $emailGen = '<html>
                                                 911 Washington Ave, St. Louis, MO 63101
                                             </p>
                                             <p style="-moz-osx-font-smoothing: grayscale; -webkit-font-smoothing: antialiased; border: 0; color: #667685; font: 400 16px/25px apple-system, BlinkMacSystemFont, Arial, \'Segoe UI\', \'Helvetica Neue\', sans-serif; margin: 0 0 10px; padding: 0; vertical-align: baseline;">
-                                                Coding begins at: 6:00pm
+                                                Coding begins at: 6:30pm
                                             </p>
 
                                             <p style="-moz-osx-font-smoothing: grayscale; -webkit-font-smoothing: antialiased; border: 0; color: #667685; font: 400 16px/25px apple-system, BlinkMacSystemFont, Arial, \'Segoe UI\', \'Helvetica Neue\', sans-serif; margin: 0 0 10px; padding: 0; vertical-align: baseline;">
@@ -159,12 +159,13 @@ $emailGen = '<html>
 
                                             <p style="-moz-osx-font-smoothing: grayscale; -webkit-font-smoothing: antialiased; border: 0; color: #667685; font: 400 16px/25px apple-system, BlinkMacSystemFont, Arial, \'Segoe UI\', \'Helvetica Neue\', sans-serif; margin: 0 0 10px; padding: 0; vertical-align: baseline;">
                                                 More information can be found at:<br>
-                                                <a href=“https://ehacks.cs.siue.edu”>eHacks Main Site</a>
+                                                <a href="https://ehacks.cs.siue.edu">eHacks Main Site</a>
                                             </p>
 
                                             <p style="-moz-osx-font-smoothing: grayscale; -webkit-font-smoothing: antialiased; border: 0; color: #667685; font: 400 16px/25px apple-system, BlinkMacSystemFont, Arial, \'Segoe UI\', \'Helvetica Neue\', sans-serif; margin: 0 0 10px; padding: 0; vertical-align: baseline;">
                                                 PLEASE JOIN THE eHacks SLACK CHANNEL AT:<br>
-                                                <a href=“https://ehacks2019.slack.com/join/shared_invite/enQtNTY0MDQ2NDM5Mjk5LTViYzM1ZGViMmQ4OWZlNDAwYzBmYTg5Y2ExZmMyNTZmMGJiYTgzZjQ2ZmNmNTE3NGM3NjAyMzE5ZjI4OTkyY2U” target="_blank">Slack Channel Link</a>
+                                                <a href="https://join.slack.com/t/ehacks2019/shared_invite/enQtNTY0MDQ2NDM5Mjk5LTViYzM1ZGViMmQ4OWZlNDAwYzBmYTg5Y2ExZmMyNTZmMGJiYTgzZjQ2ZmNmNTE3NGM3NjAyMzE5ZjI4OTkyY2U"
+                                                                   target="_blank">Slack Channel Link</a>
 
                                             </p>
                                             <br>
