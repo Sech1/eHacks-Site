@@ -156,14 +156,18 @@ $emailGen = '<html>
                                                 <li style="text-align: left">Toiletries (Deodorant, etc.)</li>
                                             </ul>
                                             <br>
-                                            Bus info (On Friday):
+                                            </p>
+                                            <p style="-moz-osx-font-smoothing: grayscale; -webkit-font-smoothing: antialiased; border: 0; color: #667685; font: 400 16px/25px apple-system, BlinkMacSystemFont, Arial, \'Segoe UI\', \'Helvetica Neue\', sans-serif; margin: 0 0 10px; padding: 0; vertical-align: baseline;">
+                                            Bus info (On Friday):<br>
                                             <ul>
-                                            <li>Bus will arrive at the Engineering Building *Circle* at 4:35 pm</li>                                 
-                                            <li>Bus will *depart* at 4:45 pm</li>
+                                            <li style="text-align: left">Bus will arrive at the Engineering Building (Circle Drive) at 4:35 pm</li>                                 
+                                            <li style="text-align: left">Bus will depart at 4:45 pm</li>
                                             </ul>
+                                            </p>
+                                         <p style="-moz-osx-font-smoothing: grayscale; -webkit-font-smoothing: antialiased; border: 0; color: #667685; font: 400 16px/25px apple-system, BlinkMacSystemFont, Arial, \'Segoe UI\', \'Helvetica Neue\', sans-serif; margin: 0 0 10px; padding: 0; vertical-align: baseline;">
                                             Bus Info (On Sunday):
                                             <ul>
-                                            <li>
+                                            <li style="text-align: left">
                                             Bus will depart TREX at 2:15 pm
                                             </li>
                                             </ul>
