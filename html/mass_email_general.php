@@ -51,7 +51,7 @@ $emailGen = '<html>
       bgcolor="#F2F5F7">
 <!-- HIDDEN PREHEADER TEXT -->
 <div style="color: #fefefe; display: none; font-family: Open Sans, Helvetica, Arial, sans-serif; font-size: 1px; line-height: 1px; max-height: 0; max-width: 0; opacity: 0; overflow: hidden;">
-    eHacks 2018 Acceptance Email
+    eHacks 2019 Acceptance Email
 </div>
 <table border="0" cellpadding="0" cellspacing="0"
        width="100%"
@@ -154,6 +154,18 @@ $emailGen = '<html>
                                                 <li style="text-align: left">Power Strips</li>
                                                 <li style="text-align: left">Toothbrush & Toothpaste</li>
                                                 <li style="text-align: left">Toiletries (Deodorant, etc.)</li>
+                                            </ul>
+                                            <br>
+                                            Bus info (On Friday):
+                                            <ul>
+                                            <li>Bus will arrive at the Engineering Building *Circle* at 4:35 pm</li>                                 
+                                            <li>Bus will *depart* at 4:45 pm</li>
+                                            </ul>
+                                            Bus Info (On Sunday):
+                                            <ul>
+                                            <li>
+                                            Bus will depart TREX at 2:15 pm
+                                            </li>
                                             </ul>
                                             </p>
 
