@@ -133,24 +133,48 @@ $emailGen = '<html>
                                             <p align="center"
                                                style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; font-family: Open Sans, Helvetica, Arial, sans-serif; mso-table-lspace: 0; mso-table-rspace: 0;">
                                             <h2 style="-moz-osx-font-smoothing: grayscale; -webkit-font-smoothing: antialiased; border: 0; color: #1E2C3A; font: 400 30px/40px apple-system, BlinkMacSystemFont, Arial, \'Segoe UI\', \'Helvetica Neue\', sans-serif; margin: 0; padding: 15px 0; vertical-align: baseline;"
-                                                align="center">eHacks 2019 Reminder - Greetings eHacks 2018
-                                                Attendees!</h2>
+                                                align="center">eHacks 2019 Approval & Reminders</h2>
                                                   <p style="-moz-osx-font-smoothing: grayscale; -webkit-font-smoothing: antialiased; border: 0; color: #667685; font: 400 16px/25px apple-system, BlinkMacSystemFont, Arial, \'Segoe UI\', \'Helvetica Neue\', sans-serif; margin: 0 0 10px; padding: 0; vertical-align: baseline;">
-                                                  We wanted to send out one final reminder to everyone, registration closes soon! - If you want to be guaranteed a t-shirt, register now!
+                                                  You’ve been approved for eHacks 2019!
+                                                    </p>
+                                                        <p style="-moz-osx-font-smoothing: grayscale; -webkit-font-smoothing: antialiased; border: 0; color: #667685; font: 400 16px/25px apple-system, BlinkMacSystemFont, Arial, \'Segoe UI\', \'Helvetica Neue\', sans-serif; margin: 0 0 10px; padding: 0; vertical-align: baseline;">
+                                                  On-site registration begins at 5:15pm and is located at:<br>
+                                            911 Washington Ave, St. Louis, MO 63101
                                                   </p>
+                     <p style="-moz-osx-font-smoothing: grayscale; -webkit-font-smoothing: antialiased; border: 0; color: #667685; font: 400 16px/25px apple-system, BlinkMacSystemFont, Arial, \'Segoe UI\', \'Helvetica Neue\', sans-serif; margin: 0 0 10px; padding: 0; vertical-align: baseline;">
+                                              Coding begins at: 6:00pm
+                                                  </p>
+                                                  
+                                                    <p style="-moz-osx-font-smoothing: grayscale; -webkit-font-smoothing: antialiased; border: 0; color: #667685; font: 400 16px/25px apple-system, BlinkMacSystemFont, Arial, \'Segoe UI\', \'Helvetica Neue\', sans-serif; margin: 0 0 10px; padding: 0; vertical-align: baseline;">
+                                            Please don’t forget to bring:
+        <ul>
+            <li>Your Laptop</li>
+            <li>Changes of Clothes</li>
+            <li>Things for sleeping</li>
+            <li>Chargers</li>
+            <li>Power Strips</li>
+            <li>Toothbrush & Toothpaste</li>
+            <li>Toiletries (Deodorant, etc.)</li>
+        </ul>
+                                                  </p>
+                                                  
+                                                     <p style="-moz-osx-font-smoothing: grayscale; -webkit-font-smoothing: antialiased; border: 0; color: #667685; font: 400 16px/25px apple-system, BlinkMacSystemFont, Arial, \'Segoe UI\', \'Helvetica Neue\', sans-serif; margin: 0 0 10px; padding: 0; vertical-align: baseline;">
+                                 More information can be found at:<br>
+<a href=“https://ehacks.cs.siue.edu”>eHacks Main Site</a>
+                                                  </p>
+                                                  
+                                                  <p style="-moz-osx-font-smoothing: grayscale; -webkit-font-smoothing: antialiased; border: 0; color: #667685; font: 400 16px/25px apple-system, BlinkMacSystemFont, Arial, \'Segoe UI\', \'Helvetica Neue\', sans-serif; margin: 0 0 10px; padding: 0; vertical-align: baseline;">
+                            PLEASE JOIN THE eHacks SLACK CHANNEL AT:<br>
+<a href=“https://ehacks2019.slack.com/join/shared_invite/enQtNTY0MDQ2NDM5Mjk5LTViYzM1ZGViMmQ4OWZlNDAwYzBmYTg5Y2ExZmMyNTZmMGJiYTgzZjQ2ZmNmNTE3NGM3NjAyMzE5ZjI4OTkyY2U”>Slack Channel Link</a>
                                                 
-
+                                                  </p>
                                             <p style="-moz-osx-font-smoothing: grayscale; -webkit-font-smoothing: antialiased; border: 0; color: #667685; font: 400 16px/25px apple-system, BlinkMacSystemFont, Arial, \'Segoe UI\', \'Helvetica Neue\', sans-serif; margin: 0 0 10px; padding: 0; vertical-align: baseline;">
-                                                eHacks 2018 brought in a multitude of projects & ideas. We would like to
-                                                invite you back for another weekend of free food, fun, and hacking!
+                                            WORDS
                                             </p>
                                             <br>
                                             <p style="-moz-osx-font-smoothing: grayscale; -webkit-font-smoothing: antialiased; border: 0; color: #667685; font: 400 16px/25px apple-system, BlinkMacSystemFont, Arial, \'Segoe UI\', \'Helvetica Neue\', sans-serif; margin: 0 0 10px; padding: 0; vertical-align: baseline;">
                                                 eHacks 2019 registration is open until February 22, 2019.</p>
                                             <p style="-moz-osx-font-smoothing: grayscale; -webkit-font-smoothing: antialiased; border: 0; color: #667685; font: 400 16px/25px apple-system, BlinkMacSystemFont, Arial, \'Segoe UI\', \'Helvetica Neue\', sans-serif; margin: 0 0 10px; padding: 0; vertical-align: baseline;">
-                                                Register for eHacks 2019 <a href="https://ehacks.cs.siue.edu"
-                                                                            target="_blank">HERE!</a>
-                                                <br>
                                                 Check us out on <a href="https://www.facebook.com/ehacksSIUE/"
                                                                    target="_blank">Facebook!</a>
                                             </p>

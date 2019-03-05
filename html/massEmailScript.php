@@ -39,7 +39,7 @@ function emailFun($inputFile, $message)
     $headers .= "MIME-Version: 1.0\r\n";
     $headers .= "Content-Type: text/html; charset=ISO-8859-1\r\n";
     // $admin_email = "no-reply@ehacks.cs.siue.edu";
-    $subject = "eHacks 2019 Reminder";
+    $subject = "eHacks 2019 Acceptance";
 
     //send email
 
