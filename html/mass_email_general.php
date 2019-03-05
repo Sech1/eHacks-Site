@@ -170,8 +170,6 @@ $emailGen = '<html>
                                             </p>
                                             <br>
                                             <p style="-moz-osx-font-smoothing: grayscale; -webkit-font-smoothing: antialiased; border: 0; color: #667685; font: 400 16px/25px apple-system, BlinkMacSystemFont, Arial, \'Segoe UI\', \'Helvetica Neue\', sans-serif; margin: 0 0 10px; padding: 0; vertical-align: baseline;">
-                                                eHacks 2019 registration is open until February 22, 2019.</p>
-                                            <p style="-moz-osx-font-smoothing: grayscale; -webkit-font-smoothing: antialiased; border: 0; color: #667685; font: 400 16px/25px apple-system, BlinkMacSystemFont, Arial, \'Segoe UI\', \'Helvetica Neue\', sans-serif; margin: 0 0 10px; padding: 0; vertical-align: baseline;">
                                                 Check us out on <a href="https://www.facebook.com/ehacksSIUE/"
                                                                    target="_blank">Facebook!</a>
                                             </p>
