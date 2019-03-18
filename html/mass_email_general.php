@@ -137,7 +137,7 @@ $emailGen = '<html>
                                                Hi, hope everyone had a great time at eHacks 2019!<br>
                                                 If you could, will you please fill out the survey listed below, it helps us pinpoint things we can improve upon for next year.
                                                 <br>
-                                                Thanks for attending, and thanks for your time filling out the survey!
+                                                Thanks for attending, and thanks for taking your time to fill out the survey!
                                             </p>
                 
                                                                  <p style="-moz-osx-font-smoothing: grayscale; -webkit-font-smoothing: antialiased; border: 0; color: #667685; font: 400 16px/25px apple-system, BlinkMacSystemFont, Arial, \'Segoe UI\', \'Helvetica Neue\', sans-serif; margin: 0 0 10px; padding: 0; vertical-align: baseline;">
