@@ -82,7 +82,7 @@ $emailGen = '<html>
                         <div class="headline"
                              style="-moz-osx-font-smoothing: grayscale; -webkit-font-smoothing: antialiased; border-bottom-color: rgba(0, 0, 0, 0.1); border-bottom-style: solid; border-width: 0 0 1px; font-size: normal; font-style: normal; font-variant: normal; font-weight: normal; height: 113px; line-height: normal; margin: auto 30px; padding: 0; vertical-align: baseline;">
                             <h2 style="-moz-osx-font-smoothing: grayscale; -webkit-font-smoothing: antialiased; border: 0; color: #1E2C3A; font: 400 30px/40px apple-system, BlinkMacSystemFont, Arial, \'Segoe UI\', \'Helvetica Neue\', sans-serif; margin: 0; padding: 35px 0 0; vertical-align: baseline;"
-                                align="center">2019 eHacks Approval</h2>
+                                align="center"></h2>
 
                         </div>
                     </td>
