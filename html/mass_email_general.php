@@ -82,7 +82,7 @@ $emailGen = '<html>
                         <div class="headline"
                              style="-moz-osx-font-smoothing: grayscale; -webkit-font-smoothing: antialiased; border-bottom-color: rgba(0, 0, 0, 0.1); border-bottom-style: solid; border-width: 0 0 1px; font-size: normal; font-style: normal; font-variant: normal; font-weight: normal; height: 113px; line-height: normal; margin: auto 30px; padding: 0; vertical-align: baseline;">
                             <h2 style="-moz-osx-font-smoothing: grayscale; -webkit-font-smoothing: antialiased; border: 0; color: #1E2C3A; font: 400 30px/40px apple-system, BlinkMacSystemFont, Arial, \'Segoe UI\', \'Helvetica Neue\', sans-serif; margin: 0; padding: 35px 0 0; vertical-align: baseline;"
-                                align="center"></h2>
+                                align="center">eHacks 2019 Survey</h2>
 
                         </div>
                     </td>
@@ -132,7 +132,7 @@ $emailGen = '<html>
                                             <p align="center"
                                                style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; font-family: Open Sans, Helvetica, Arial, sans-serif; mso-table-lspace: 0; mso-table-rspace: 0;">
                                             <h2 style="-moz-osx-font-smoothing: grayscale; -webkit-font-smoothing: antialiased; border: 0; color: #1E2C3A; font: 400 30px/40px apple-system, BlinkMacSystemFont, Arial, \'Segoe UI\', \'Helvetica Neue\', sans-serif; margin: 0; padding: 15px 0; vertical-align: baseline;"
-                                                align="center">eHacks 2019 Survey</h2>
+                                                align="center"></h2>
                                             <p style="-moz-osx-font-smoothing: grayscale; -webkit-font-smoothing: antialiased; border: 0; color: #667685; font: 400 16px/25px apple-system, BlinkMacSystemFont, Arial, \'Segoe UI\', \'Helvetica Neue\', sans-serif; margin: 0 0 10px; padding: 0; vertical-align: baseline;">
                                                Hi, hope everyone had a great time at eHacks 2019!<br>
                                                 If you could, will you please fill out the survey listed below, it helps us pinpoint things we can improve upon for next year.
