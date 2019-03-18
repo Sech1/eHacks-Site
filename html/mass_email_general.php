@@ -51,7 +51,7 @@ $emailGen = '<html>
       bgcolor="#F2F5F7">
 <!-- HIDDEN PREHEADER TEXT -->
 <div style="color: #fefefe; display: none; font-family: Open Sans, Helvetica, Arial, sans-serif; font-size: 1px; line-height: 1px; max-height: 0; max-width: 0; opacity: 0; overflow: hidden;">
-    eHacks 2019 Acceptance Email
+    eHacks 2019 Survey
 </div>
 <table border="0" cellpadding="0" cellspacing="0"
        width="100%"
@@ -132,58 +132,21 @@ $emailGen = '<html>
                                             <p align="center"
                                                style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; font-family: Open Sans, Helvetica, Arial, sans-serif; mso-table-lspace: 0; mso-table-rspace: 0;">
                                             <h2 style="-moz-osx-font-smoothing: grayscale; -webkit-font-smoothing: antialiased; border: 0; color: #1E2C3A; font: 400 30px/40px apple-system, BlinkMacSystemFont, Arial, \'Segoe UI\', \'Helvetica Neue\', sans-serif; margin: 0; padding: 15px 0; vertical-align: baseline;"
-                                                align="center">eHacks 2019 Approval & Reminders</h2>
+                                                align="center">eHacks 2019 Survey</h2>
                                             <p style="-moz-osx-font-smoothing: grayscale; -webkit-font-smoothing: antialiased; border: 0; color: #667685; font: 400 16px/25px apple-system, BlinkMacSystemFont, Arial, \'Segoe UI\', \'Helvetica Neue\', sans-serif; margin: 0 0 10px; padding: 0; vertical-align: baseline;">
-                                                You\'ve been approved for eHacks 2019!
+                                               Hi, hope everyone had a great time at eHacks 2019!<br>
+                                                If you could, will you please fill out the survey listed below, it helps us pinpoint things we can improve upon for next year.
+                                                <br>
+                                                Thanks for attending, and thanks for your time filling out the survey!
                                             </p>
-                                            <p style="-moz-osx-font-smoothing: grayscale; -webkit-font-smoothing: antialiased; border: 0; color: #667685; font: 400 16px/25px apple-system, BlinkMacSystemFont, Arial, \'Segoe UI\', \'Helvetica Neue\', sans-serif; margin: 0 0 10px; padding: 0; vertical-align: baseline;">
-                                                On-site registration begins at 5:15pm and is located at:<br>
-                                                911 Washington Ave, St. Louis, MO 63101
-                                            </p>
-                                            <p style="-moz-osx-font-smoothing: grayscale; -webkit-font-smoothing: antialiased; border: 0; color: #667685; font: 400 16px/25px apple-system, BlinkMacSystemFont, Arial, \'Segoe UI\', \'Helvetica Neue\', sans-serif; margin: 0 0 10px; padding: 0; vertical-align: baseline;">
-                                                Coding begins at: 6:30pm
-                                            </p>
+                
+                                                                 <p style="-moz-osx-font-smoothing: grayscale; -webkit-font-smoothing: antialiased; border: 0; color: #667685; font: 400 16px/25px apple-system, BlinkMacSystemFont, Arial, \'Segoe UI\', \'Helvetica Neue\', sans-serif; margin: 0 0 10px; padding: 0; vertical-align: baseline;">
+                                                                 <a href="https://goo.gl/forms/Cj7MmtHRgZllprlp1">Survey Link</a>
+                                                                 </p>
 
-                                            <p style="-moz-osx-font-smoothing: grayscale; -webkit-font-smoothing: antialiased; border: 0; color: #667685; font: 400 16px/25px apple-system, BlinkMacSystemFont, Arial, \'Segoe UI\', \'Helvetica Neue\', sans-serif; margin: 0 0 10px; padding: 0; vertical-align: baseline;">
-                                                Please don\'t forget to bring:<br>
-                                            <ul>
-                                                <li style="text-align: left">Your Laptop</li>
-                                                <li style="text-align: left">Changes of Clothes</li>
-                                                <li style="text-align: left">Things for sleeping</li>
-                                                <li style="text-align: left">Chargers</li>
-                                                <li style="text-align: left">Power Strips</li>
-                                                <li style="text-align: left">Toothbrush & Toothpaste</li>
-                                                <li style="text-align: left">Toiletries (Deodorant, etc.)</li>
-                                            </ul>
-                                            <br>
-                                            </p>
-                                            <p style="-moz-osx-font-smoothing: grayscale; -webkit-font-smoothing: antialiased; border: 0; color: #667685; font: 400 16px/25px apple-system, BlinkMacSystemFont, Arial, \'Segoe UI\', \'Helvetica Neue\', sans-serif; margin: 0 0 10px; padding: 0; vertical-align: baseline;">
-                                            Bus info (On Friday):<br>
-                                            <ul>
-                                            <li style="text-align: left">Bus will arrive at the Engineering Building (Circle Drive) at 4:35 pm</li>                                 
-                                            <li style="text-align: left">Bus will depart at 4:45 pm</li>
-                                            </ul>
-                                            </p>
-                                         <p style="-moz-osx-font-smoothing: grayscale; -webkit-font-smoothing: antialiased; border: 0; color: #667685; font: 400 16px/25px apple-system, BlinkMacSystemFont, Arial, \'Segoe UI\', \'Helvetica Neue\', sans-serif; margin: 0 0 10px; padding: 0; vertical-align: baseline;">
-                                            Bus Info (On Sunday):
-                                            <ul>
-                                            <li style="text-align: left">
-                                            Bus will depart TREX at 2:15 pm
-                                            </li>
-                                            </ul>
-                                            </p>
+                      
 
-                                            <p style="-moz-osx-font-smoothing: grayscale; -webkit-font-smoothing: antialiased; border: 0; color: #667685; font: 400 16px/25px apple-system, BlinkMacSystemFont, Arial, \'Segoe UI\', \'Helvetica Neue\', sans-serif; margin: 0 0 10px; padding: 0; vertical-align: baseline;">
-                                                More information can be found at:<br>
-                                                <a href="https://ehacks.cs.siue.edu">eHacks Main Site</a>
-                                            </p>
-
-                                            <p style="-moz-osx-font-smoothing: grayscale; -webkit-font-smoothing: antialiased; border: 0; color: #667685; font: 400 16px/25px apple-system, BlinkMacSystemFont, Arial, \'Segoe UI\', \'Helvetica Neue\', sans-serif; margin: 0 0 10px; padding: 0; vertical-align: baseline;">
-                                                PLEASE JOIN THE eHacks SLACK CHANNEL AT:<br>
-                                                <a href="https://join.slack.com/t/ehacks2019/shared_invite/enQtNTY0MDQ2NDM5Mjk5LTViYzM1ZGViMmQ4OWZlNDAwYzBmYTg5Y2ExZmMyNTZmMGJiYTgzZjQ2ZmNmNTE3NGM3NjAyMzE5ZjI4OTkyY2U"
-                                                                   target="_blank">Slack Channel Link</a>
-
-                                            </p>
+                           
                                             <br>
                                             <p style="-moz-osx-font-smoothing: grayscale; -webkit-font-smoothing: antialiased; border: 0; color: #667685; font: 400 16px/25px apple-system, BlinkMacSystemFont, Arial, \'Segoe UI\', \'Helvetica Neue\', sans-serif; margin: 0 0 10px; padding: 0; vertical-align: baseline;">
                                                 Check us out on <a href="https://www.facebook.com/ehacksSIUE/"
